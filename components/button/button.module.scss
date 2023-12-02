@@ -1,0 +1,10 @@
+@import "/styles/mixins/color.scss";
+
+
+.button {
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: solid;
+    color: $red-color;
+}
